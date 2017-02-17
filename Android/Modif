@@ -1,0 +1,2 @@
+14/12/16 : - (mainwindow.cpp:itstime:338)                               Ajout de disconnect + connect dans la fonction itstime
+           - (mainwindow.h)(mainwindow.cpp:Timer_Reception_Pc:62)       Declaration timer2 general (old -> timerReceptionPc)
